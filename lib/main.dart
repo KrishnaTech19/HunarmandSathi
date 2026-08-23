@@ -111,7 +111,7 @@ class HomeScreen extends StatelessWidget {
                               TextSpan(
                                 text: 'Hunarmand',
                                 style: TextStyle(
-                                  fontSize: 22,
+                                  fontSize: 18,
                                   fontWeight: FontWeight.w800,
                                   color: Color(0xFF0F4C5C),
                                   letterSpacing: -0.5,
@@ -120,7 +120,7 @@ class HomeScreen extends StatelessWidget {
                               TextSpan(
                                 text: 'Sathi',
                                 style: TextStyle(
-                                  fontSize: 22,
+                                  fontSize: 18,
                                   fontWeight: FontWeight.w800,
                                   color: Color(0xFFE36414),
                                   letterSpacing: -0.5,
