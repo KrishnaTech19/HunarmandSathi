@@ -11,6 +11,7 @@ import 'screens/client_dashboard.dart';
 import 'screens/worker_details_Screen.dart';
 import 'screens/notifications_screen.dart';
 import 'screens/client_profile_screen.dart';
+import 'screens/splash_Screen.dart';
 
 void main() {
   runApp(const HunarmandSathi());
@@ -32,7 +33,7 @@ class HunarmandSathi extends StatelessWidget {
           secondary: const Color(0xFFE36414),
         ),
       ),
-      home: const HomeScreen(),
+      home: const SplashScreen(),
     );
   }
 }
